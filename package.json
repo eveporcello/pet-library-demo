@@ -37,6 +37,6 @@
   },
   "devDependencies": {
     "graphql": "^15.0.0",
-    "relay-compiler": "^9.0.0"
+    "relay-compiler": "^9.1.0"
   }
 }
